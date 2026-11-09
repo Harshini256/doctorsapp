@@ -1,0 +1,20 @@
+ props: props is a immutable objects.It is used to pass from parent to child class
+Destructuring: It is a way to extract values from objects or arrays and assign them to variables in a more concise and readable manner.
+
+Hooks:- built-in-functions:
+
+1.use state:
+it is used to manage the state vakues.
+
+2.useEffect:
+it is used to managethe side effects such as "api calling,localstorage and timers".
+
+they are 3 main types in useEffect:****
+1.useEffect with no dependency -->it will run whenever the state changes.
+2.useEffect with [] dependency array --> it will run only one time.
+
+how to render a list: 
+ans: Using "map" we can render a list.
+
+key:
+ans:key is used to identify 
